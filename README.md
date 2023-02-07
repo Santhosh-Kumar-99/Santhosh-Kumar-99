@@ -2,7 +2,7 @@
 
 Hi, I am Santhosh Kumar, a passionate software engineer from India.
 
-Currently working as Software Engineer I at [Legato Health Technologies](https://www.legato.com/) 
+Currently working as Software Engineer I at [Carelon](https://www.carelon.com/) 
 
 ### My Tech arsenal includes 
 
