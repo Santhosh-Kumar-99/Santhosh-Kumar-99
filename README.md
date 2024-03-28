@@ -1,4 +1,4 @@
-Iam a Software Engineer who codes.
+I love to code :)
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
